@@ -1,6 +1,14 @@
 # various info
 ***
 
+WIN 10 家庭版不可以被远程；
+
+使用 RDP 工具，可以安装远程文件，使得程序完整；
+https://github.com/stascorp/rdpwrap/releases
+
+
+***
+
 UML类关系图:
 就是哪个类和哪个类有关系的画图
 

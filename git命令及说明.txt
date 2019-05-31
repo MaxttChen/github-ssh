@@ -1,0 +1,56 @@
+版本管理：
+1.SVN：集中式
+2.GIT:分布式
+
+GIT有本地仓库、远程仓库
+git status
+git diff
+git log
+git log --pretty=online
+
+git init
+git add
+git commit -m "XXX说明"
+
+
+git reset --hard HEAD^^ 
+git checkout --<file>
+git reset HEAD <file>
+
+git rm --<file>
+git push -u <origin> <branch>
+
+git remote add <origin> http://xxxx
+git clone http://xxxx
+
+分支：
+git checkout -b <branch>
+git branch <branch>
+git checkout <branch>
+
+git branch
+git log --graph
+
+git merge <branch>
+git merge --on--ff <branch>
+
+git branch -d <branch>
+git branch -D <branch>
+
+远程仓：
+git remote
+git push <origin> <branch>
+git checkout -b <branch> <origin> <branch>
+git pull
+git branch --set-upstream-to=<orgin>/<branch> <branch>
+
+git base
+.gitignore
+
+snychronize:master/dev
+local:bug/feature
+
+
+
+
+

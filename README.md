@@ -28,3 +28,13 @@ https://www.tiobe.com/tiobe-index/
 
 >markdown 语法:http://www.appinn.com/markdown
 
+***
+
+shadowsockets ip
+搜索 shadowsocket 线路
+https://t.netflybit.top/
+
+设置
+https://shadowsockshelp.github.io/Shadowsocks/ios.html
+
+***
